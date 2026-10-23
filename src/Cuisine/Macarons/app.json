@@ -1,0 +1,39 @@
+{
+  "id": "00489303-30d3-5599-901f-4e461ab942d3",
+  "name": "Macarons",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Macarons (AL-Go build demo)",
+  "description": "Macarons - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 53000,
+      "to": 53999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

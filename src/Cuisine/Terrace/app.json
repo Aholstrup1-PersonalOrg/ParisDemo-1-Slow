@@ -1,0 +1,39 @@
+{
+  "id": "875c3a37-1168-5280-9dca-57b1339ad335",
+  "name": "Terrace",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Terrace (AL-Go build demo)",
+  "description": "Terrace - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 58000,
+      "to": 58999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

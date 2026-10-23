@@ -1,0 +1,39 @@
+{
+  "id": "60e50caf-ed15-5f9a-950e-4e4b94607949",
+  "name": "Deliveries",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Deliveries (AL-Go build demo)",
+  "description": "Deliveries - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 56000,
+      "to": 56999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

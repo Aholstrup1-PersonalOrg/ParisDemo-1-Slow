@@ -1,0 +1,39 @@
+{
+  "id": "d3d053a3-15d4-524c-ab9b-40b2b528c7cf",
+  "name": "Cafe",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Cafe (AL-Go build demo)",
+  "description": "Cafe - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 54000,
+      "to": 54999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

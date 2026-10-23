@@ -1,0 +1,39 @@
+{
+  "id": "a0033829-0bf9-55f9-8576-da1589de609b",
+  "name": "Suppliers",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Suppliers (AL-Go build demo)",
+  "description": "Suppliers - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 57000,
+      "to": 57999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "6bcbc18e-fdaf-59ef-880b-049b8e94231f",
+  "name": "Cuisine Tests",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Cuisine Tests (AL-Go build demo)",
+  "description": "Cuisine Tests - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "435af0a3-e23b-530d-9d7a-8ba75266257a",
+      "name": "Croissants",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "1c807a00-c2e1-54af-8dda-55c45b3b0704",
+      "name": "Baguettes",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "00489303-30d3-5599-901f-4e461ab942d3",
+      "name": "Macarons",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "d3d053a3-15d4-524c-ab9b-40b2b528c7cf",
+      "name": "Cafe",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "435a1e60-9148-5ac8-8019-f8b47914cc0c",
+      "name": "Ovens",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "60e50caf-ed15-5f9a-950e-4e4b94607949",
+      "name": "Deliveries",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "a0033829-0bf9-55f9-8576-da1589de609b",
+      "name": "Suppliers",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "875c3a37-1168-5280-9dca-57b1339ad335",
+      "name": "Terrace",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "29.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

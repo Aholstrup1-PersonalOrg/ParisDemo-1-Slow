@@ -1,0 +1,45 @@
+{
+  "id": "a5bf3257-4df0-551b-8eb4-dd9351693116",
+  "name": "Click and Collect",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Click and Collect (AL-Go build demo)",
+  "description": "Click and Collect - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+      "name": "Foundation",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "694bb973-fff3-5d52-ae4a-847deba6bce8",
+      "name": "Boutique",
+      "publisher": "La Petite Patisserie",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 71000,
+      "to": 71999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

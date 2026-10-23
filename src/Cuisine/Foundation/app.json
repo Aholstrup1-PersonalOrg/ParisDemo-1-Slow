@@ -1,0 +1,32 @@
+{
+  "id": "4693dca5-3fbb-5031-ad27-326d277458bb",
+  "name": "Foundation",
+  "publisher": "La Petite Patisserie",
+  "version": "1.0.0.0",
+  "brief": "Foundation (AL-Go build demo)",
+  "description": "Foundation - generated demo app for AL-Go build performance demos.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
